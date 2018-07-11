@@ -1,0 +1,29 @@
+/* Fonts */
+@font-face {
+    font-family: 'Lato-Regular';
+    src: url(/assets/fonts/Lato-Regular.tff);
+}
+@font-face {
+    font-family: 'Bebas';
+    src: url(/assets/fonts/bebas.tff);
+}
+/* Homepage */
+.logo-homepage img{
+    width: 70%;
+    height: auto;
+}
+.buttons-homepage button{
+    font-family: Lato-Regular;
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+    border: none;
+    background-color: #4CAF50;
+    padding: 40px 28px;
+    font-size: 36px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 4px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+}
