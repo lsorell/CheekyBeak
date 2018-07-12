@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0807345a-c726-4912-b0ca-c961312703ee" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/dev/graphics.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/dev/graphics.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/assets/img/logo_cheekybeakco.png" beforeDir="false" afterPath="$PROJECT_DIR$/site/assets/img/logo_cheekybeakco.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/homepage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/site/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/site/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +25,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            <state relative-caret-position="323">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -136,12 +133,12 @@
       <option name="presentableId" value="Default" />
       <updated>1531272722241</updated>
       <workItem from="1531272723442" duration="5638000" />
-      <workItem from="1531350023946" duration="1272000" />
+      <workItem from="1531350023946" duration="1595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6910000" />
+    <option name="totallyTimeSpent" value="7233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -199,8 +196,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        <state relative-caret-position="323">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
