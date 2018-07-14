@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>homepage</title>
     <link href="style.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css"
           integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
 </head>
@@ -12,8 +13,21 @@
     Logo
 -->
 <div class="container-fluid">
-    <div class="row">
-        <img class="logo_homepage" src="assets/img/logo_cheekybeakco.png">
+    <div class="row justify-content-start">
+            <img class="logo_homepage" src="assets/img/logo_cheekybeakco.png">
+        <div class="align-self-center">
+            <div class="dropdown">
+                <button class="homepage_drop" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="glyphicon glyphicon-menu-hamburger"></i>
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" href="#">about</a>
+                    <a class="dropdown-item" href="#">all cards</a>
+                    <a class="dropdown-item" href="#">contact</a>
+                    <a class="dropdown-item" href="#">blog</a>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 <!--
@@ -21,49 +35,49 @@
 -->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-8">
+        <div class="col-4">
             <div class="homepage_buttons">
                 <button id="thank_you" type="button">thank you</button>
             </div>
         </div>
     </div>
     <div class="row">
-        <div class="col-8">
+        <div class="col-4">
             <div class="homepage_buttons">
                 <button id="birthday" type="button">birthday</button>
             </div>
         </div>
     </div>
     <div class="row">
-        <div class="col-8">
+        <div class="col-4">
             <div class="homepage_buttons">
                 <button id="love" type="button">love</button>
             </div>
         </div>
     </div>
     <div class="row">
-        <div class="col-8">
+        <div class="col-4">
             <div class="homepage_buttons">
                 <button id="congrats" type="button">congratulations</button>
             </div>
         </div>
     </div>
     <div class="row">
-        <div class="col-8">
+        <div class="col-4">
             <div class="homepage_buttons">
                 <button id="sympathy" type="button">sympathy</button>
             </div>
         </div>
     </div>
     <div class="row">
-        <div class="col-8">
+        <div class="col-4">
             <div class="homepage_buttons">
                 <button id="friend" type="button">friendship</button>
             </div>
         </div>
     </div>
     <div class="row">
-        <div class="col-8">
+        <div class="col-4">
             <div class="homepage_buttons">
                 <button id="baby" type="button">new baby</button>
             </div>

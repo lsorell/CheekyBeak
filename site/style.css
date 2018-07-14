@@ -15,6 +15,7 @@
 .homepage_buttons{
 	height: 160px;
 	padding-bottom: 80px;
+    margin-left: 80px;
 }
 .homepage_buttons button{
     font-family: Lato-Regular;
@@ -32,6 +33,13 @@
 .homepage_buttons button:active{
     box-shadow: 0px 0px;
     transform: translateX(8px) translateY(16px);
+}
+.homepage_drop{
+    font-size: 20px;
+    position: fixed;
+}
+.dropdown-item{
+    font-size: 16px;
 }
 body{
     background-image: url("assets/img/homepage_corner.png");
