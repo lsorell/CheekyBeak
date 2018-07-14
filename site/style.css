@@ -8,36 +8,54 @@
     src: url(/assets/fonts/bebas.tff);
 }
 /* Homepage */
-.logo_homepage img{
-    width: 85%;
+.logo_homepage{
+    width: 890px;
+    height: 280px;
 }
-.homepage_buttons div{
-	height: 124px;
+.homepage_buttons{
+	height: 160px;
 	padding-bottom: 80px;
 }
-.card_type_button button{
+.homepage_buttons button{
     font-family: Lato-Regular;
-	font-size: 92px;
+	font-size: 48px;
     display: block;
-	height: 100%;
-	width: 80%;
+	height: 1.8em;
+    width: 800px;
     margin: 0 auto;
     border: none;
     cursor: pointer;
     text-align: center;
     border-radius: 4px;
     box-shadow: 8px 16px;
-    transition-duration: 0.4s;
+}
+.homepage_buttons button:active{
+    box-shadow: 0px 0px;
+    transform: translateX(8px) translateY(16px);
+}
+body{
+    background-image: url("assets/img/homepage_corner.png");
+    background-size: 1000px 1300px;
+    background-repeat: no-repeat;
 }
 #birthday{
-	background-color: Red;
+	background-color: #518274;
 }
 #thank_you{
-	background-color: LightGreen;
+	background-color: #a6dec1;
 }
 #love{
-	background-color: Pink;
+	background-color: #e95024;
 }
-#friendship{
-	background-color: Blue;
+#congrats{
+	background-color: #d99647;
+}
+#sympathy{
+    background-color: #15355f;
+}
+#friend{
+    background-color: #a3d285;
+}
+#baby{
+    background-color: #f9cfc2;
 }
