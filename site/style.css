@@ -9,8 +9,8 @@
 }
 /* Homepage */
 .logo_homepage{
-    width: 890px;
-    height: 280px;
+    width: 668px;
+    height: 210px;
 }
 .homepage_buttons{
 	height: 160px;
@@ -27,16 +27,22 @@
     border: none;
     cursor: pointer;
     text-align: center;
-    border-radius: 4px;
+    border-radius: 16px;
     box-shadow: 8px 16px;
 }
 .homepage_buttons button:active{
     box-shadow: 0px 0px;
     transform: translateX(8px) translateY(16px);
 }
+.homepage_buttons button:focus{
+    outline:0;
+}
 .homepage_drop{
     font-size: 20px;
-    position: fixed;
+    position: absolute;
+}
+.dropdown{
+    padding-left: 200px;
 }
 .dropdown-item{
     font-size: 16px;
