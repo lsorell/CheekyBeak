@@ -9,6 +9,8 @@
 }
 /* Homepage */
 .logo_homepage{
+    position: relative;
+    left: 160px;
     width: 668px;
     height: 210px;
 }
@@ -18,8 +20,9 @@
     margin-left: 80px;
 }
 .homepage_buttons button{
-    font-family: Lato-Regular;
+    font-family: Bebas;
 	font-size: 48px;
+    color: white;
     display: block;
 	height: 1.8em;
     width: 800px;
@@ -28,7 +31,7 @@
     cursor: pointer;
     text-align: center;
     border-radius: 16px;
-    box-shadow: 8px 16px;
+    box-shadow: 8px 16px black;
 }
 .homepage_buttons button:active{
     box-shadow: 0px 0px;
@@ -68,7 +71,7 @@ body{
     background-color: #15355f;
 }
 #friend{
-    background-color: #a3d285;
+    background-color: #ceb0d4;
 }
 #baby{
     background-color: #f9cfc2;
