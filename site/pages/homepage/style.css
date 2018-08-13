@@ -1,11 +1,17 @@
 /* Fonts */
 @font-face {
-    font-family: 'Lato-Regular';
-    src: url(/assets/fonts/Lato-Regular.tff);
+    font-family: 'bebasregular';
+    src: url('../../assets/fonts/bebas-webfont.woff2') format('woff2'),
+    url('../../assets/fonts/bebas-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 @font-face {
-    font-family: 'Bebas';
-    src: url(/assets/fonts/bebas.tff);
+    font-family: 'latoregular';
+    src: url('../../assets/fonts/lato-regular-webfont.woff2') format('woff2'),
+    url('../../assets/fonts/lato-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 /* Homepage */
 .logo_homepage{
@@ -20,7 +26,7 @@
     margin-left: 80px;
 }
 .homepage_buttons button{
-    font-family: Bebas;
+    font-family: 'bebasregular';
 	font-size: 48px;
     color: white;
     display: block;
@@ -51,8 +57,9 @@
     font-size: 16px;
 }
 body{
-    background-image: url("assets/img/homepage_corner.png");
+    background-image: url("../../assets/img/homepage_corner.png");
     background-size: 1000px 1300px;
+    /*background-position: center top;*/
     background-repeat: no-repeat;
 }
 #birthday{
