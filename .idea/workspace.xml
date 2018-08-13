@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0807345a-c726-4912-b0ca-c961312703ee" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/site/assets/fonts/lato-regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/assets/fonts/lato-regular-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/pages/homepage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/site/pages/homepage/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="0807345a-c726-4912-b0ca-c961312703ee" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,26 +50,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/pages/homepage/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/pages/homepage/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -134,14 +109,7 @@
               <item name="CheekyBeak" type="b2602c69:ProjectViewProjectNode" />
               <item name="CheekyBeak" type="462c0819:PsiDirectoryNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CheekyBeak" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CheekyBeak" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -158,12 +126,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\lanes\OneDrive\Desktop\Git\CheekyBeak\site\pages\homepage" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lanes\OneDrive\Desktop\Git\CheekyBeak\site\assets\fonts" />
       <recent name="C:\Users\lanes\OneDrive\Desktop\Git\CheekyBeak\site" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lanes\OneDrive\Desktop\Git\CheekyBeak\site\pages\homepage" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -200,7 +168,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29326000" />
+    <option name="totallyTimeSpent" value="29441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
